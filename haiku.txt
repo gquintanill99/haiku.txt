@@ -1,7 +1,6 @@
 An old silent pond...
 A frog jumps into the pond,
-splash! Silence again.
+splash! Silence
 
-This is a test
-keep trying to do it
+
 
